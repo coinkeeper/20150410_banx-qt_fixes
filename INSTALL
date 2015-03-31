@@ -1,0 +1,9 @@
+Building BANX
+
+See doc/readme-qt.rst for instructions on building BANX QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BANX.
+
+See doc/build-*.txt for instructions on building BANXd,
+the intended-for-services, no-graphical-interface, reference
+implementation of BANX.
